@@ -3,6 +3,16 @@
 
 ### python 程式設計
 - p01.py
+``` python
+a=10
+#非整數的變數
+print(a)
+print(type(a))
+
+
+a=20
+print(a)
+```
 - p02.py
 - p03.py
 - p04.py
